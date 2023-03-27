@@ -1,5 +1,27 @@
 body {
 text-align:  center;
 font-family: "Arial" ;
+color: deeppink;
+}
+
+h1 {
+color: brown;
+}
+
+#container {
+
+    padding: 1em ;
+    width: 70%;
+    text-align: left;
+    border:1px solid darkgoldenrod ;
+    margin: auto;
+}
+
+#cabecera {
+    background: black;
+    color: white;
+    margin: auto;
+    padding: 0.5em;
+    
 
 }
