@@ -12,15 +12,15 @@ color: brown;
 
     padding: 1em ;
     width: 70%;
-    text-align: left;
-    border:1px solid rgb(66, 11, 184) ;
+    text-align: center;
+    border:10px solid rgb(66, 11, 184) ;
     margin: auto;
 }
 
 #cabecera {
     background: black url("../Image/el-sol-en-remolino_5120x2880_xtrafondos.com.jpg") no-repeat center center ; 
     color: white;
-    margin: auto;
+    margin: center;
     padding: 0.5em;
     
 
