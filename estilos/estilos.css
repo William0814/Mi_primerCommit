@@ -18,7 +18,7 @@ color: brown;
 }
 
 #cabecera {
-    background: black;
+    background: black url("../Image/el-sol-en-remolino_5120x2880_xtrafondos.com.jpg") no-repeat center center ; 
     color: white;
     margin: auto;
     padding: 0.5em;
